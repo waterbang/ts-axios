@@ -1,2 +1,2 @@
 # ts-axios
-Axios in ts
+用 ts 实现 axios
